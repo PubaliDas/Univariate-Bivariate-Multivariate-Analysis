@@ -7,7 +7,7 @@ This repository contains a lot of different types of interesting plots used for 
 
 A very popular datset called 50 Startups is used to perform the exploratory data analysis.
 The target variable is assumed to be PROFIT. Various types of plots are build to explore the insights of the data.
-Mainly the following is perforemed in any type of EDA.
+Mainly the following is performed for any type of EDA.
 
 
 ### Univariate analysis
